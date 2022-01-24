@@ -1,0 +1,45 @@
+.myShow{
+        display: flex;
+        flex-direction: column;
+        min-height: 75vh;
+        background-size: cover;
+        text-align: center;
+}
+   
+.myShowTable{
+        width: 100%;
+        padding: 10px;  
+        text-align: center;
+        background-color: rgba(233, 233, 233, 0.9);
+}
+    
+.myShowTable>thead{
+        text-transform: uppercase;
+}
+    
+.myShowTable th{
+        background-color: rgb(142, 146, 148, 0.9);
+        color: white;
+        padding: 10px 0px;
+        font-weight: bold;
+        text-align: center;
+}
+    
+.myShowTable td{
+        padding: 3px 0px;
+        font-weight: 600;
+        text-align: center;
+}
+    
+.myShowTable>tbody tr:hover{
+        background-color: rgb(188, 202, 207, 0.9);
+}
+    
+.myShowTable td>a{
+        text-decoration: none;
+        color: white;
+}
+    
+ .myActionBtn{
+        width: 10%;
+ }

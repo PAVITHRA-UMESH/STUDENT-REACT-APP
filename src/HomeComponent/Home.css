@@ -1,0 +1,18 @@
+.myHome{
+    color: darkred;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    top:110px;
+}
+
+.myHomeHeading{
+    color: darkgreen;
+    text-shadow: 2px 2px 8px orangered;
+}
+
+h4{
+    color: darkmagenta;
+}
+
+ 

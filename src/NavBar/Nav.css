@@ -1,0 +1,35 @@
+.myList{
+    display: flex;
+    justify-content: space-around;
+    color: orange;
+    text-decoration: none;
+    justify-items: right;
+    list-style-type: none;
+ }
+ 
+ a{
+     padding-left: 20px;
+     float: right;
+     color: orange;
+     text-decoration: none;
+     padding-top: 35px;
+     font-size: 18px;
+     font-weight: bold;
+ }
+ 
+ a:hover{
+     color: navy;
+     font-size: 20px;
+ }
+ 
+ .myTopic{
+     font-size: 30px;
+     padding-top: 25px;
+     text-shadow: 8px 8px 10px darkred;
+     font-weight: bolder;
+ }
+ 
+ nav{
+     height: 100px;
+     background-color: cadetblue;
+ }

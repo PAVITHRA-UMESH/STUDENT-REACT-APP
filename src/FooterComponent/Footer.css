@@ -1,0 +1,14 @@
+.myFooter{
+    height: 100px;
+    color: black;
+    background-color: burlywood;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    top: 650px;
+    width: 100%;
+}
+
+span{
+    color: darkred;
+}

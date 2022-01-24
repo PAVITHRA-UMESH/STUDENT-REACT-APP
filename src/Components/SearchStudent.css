@@ -1,0 +1,66 @@
+.mySearchBlock{
+    display: flex;
+    flex-direction: column;
+    min-height: 75vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.mySearchContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    width: 70%;
+}
+
+.mySearchForm{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+
+h3{
+    text-shadow: 2px 2px 8px red;
+}
+
+.mySearchTable{
+    margin-top: 10px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;  
+    background-color: rgba(233, 233, 233, 0.9);
+}
+
+.mySearchTable th{
+    background-color: rgb(142, 146, 148, 0.9);
+    color: white;
+    padding: 10px 0px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mySearchTable td{
+    padding: 5px 0px;
+    background-color: rgba(190, 190, 190, 0.9);
+    padding: 3px 0px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.mySearchTable label{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.mySearchTable input{
+    width: 90%;
+    background: none;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid black;
+}

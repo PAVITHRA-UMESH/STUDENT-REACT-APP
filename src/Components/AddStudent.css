@@ -1,0 +1,26 @@
+.myAddForm{
+    border: 5px solid darkred;
+    height: 400px;
+    width: 500px;
+    background-color: darkseagreen;
+    position: relative;
+    left: 500px;
+    top: 50px;
+    text-align: center;
+}
+
+label{
+    color: darkblue;
+    font-weight: bold;
+}
+
+input{
+    height: 20px;
+    border: 2px solid orange;
+}
+
+h2{
+    color: indianred;
+    text-decoration: underline;
+}
+
