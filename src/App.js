@@ -16,13 +16,13 @@ function App() {
     <Nav></Nav>
     </header>
     <Routes>
-      <Route exact path="/home" element={<Home />}/>
+      <Route path="/" element={<Home />}/>
+      <Route path="/home" element={<Home />}/>
       <Route path="/students/showall" element={<Show/>}></Route>
       <Route path="/students/delete/:id" element={<DeleteStudent/>}></Route>
       <Route path="/students/add" element={<AddStudent/>}></Route>
       <Route path="/students/edit/:id" element={<UpdateStudent/>}></Route>
       <Route path="/students/search" element={<SearchStudent/>}></Route>
-      <Route exact path="/" element={<Home />}/>
     </Routes>
     <footer>
       <Footer></Footer>
