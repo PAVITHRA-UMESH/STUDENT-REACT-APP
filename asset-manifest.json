@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/STUDENT-REACT-APP/static/css/main.d24808de.css",
+    "main.js": "/STUDENT-REACT-APP/static/js/main.bb8f97ac.js",
+    "static/js/787.e07baa27.chunk.js": "/STUDENT-REACT-APP/static/js/787.e07baa27.chunk.js",
+    "index.html": "/STUDENT-REACT-APP/index.html",
+    "main.d24808de.css.map": "/STUDENT-REACT-APP/static/css/main.d24808de.css.map",
+    "main.bb8f97ac.js.map": "/STUDENT-REACT-APP/static/js/main.bb8f97ac.js.map",
+    "787.e07baa27.chunk.js.map": "/STUDENT-REACT-APP/static/js/787.e07baa27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d24808de.css",
+    "static/js/main.bb8f97ac.js"
+  ]
+}
