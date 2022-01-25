@@ -29,8 +29,8 @@ function Home(){
     return(
     <div className="myHome">
         <h1 className="myHomeHeading">WELCOME TO STUDENT MANAGEMENT SYSTEM!!!!!</h1>
-        <h3>YOU CAN VIEW,ADD, EDIT, DELETE AND SEARCH THE STUDENT DETAILS HERE.....</h3>
-        <h4>LET'S BEGIN..........CLICK BELOW</h4>
+        <h3>YOU CAN VIEW, ADD, EDIT, DELETE AND SEARCH THE STUDENT DETAILS HERE.....</h3>
+        <h4>LET'S BEGIN..........</h4>
         <br></br>
         <br></br>
         <ThemeProvider theme={customTheme}>
